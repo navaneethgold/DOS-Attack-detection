@@ -1,2 +1,2 @@
 # DOS-Attack-detection
-To develop machine learning-based classification model that analyzes incoming  connection requests and categorizes them as malignant or benign based on network-related features.
+To develop machine learning-based classification model that analyzes incoming  connection requests and categorizes them as malignant or benign based on network-related features using various Data Generation methods such as diffusion and under various other algorithms for detection of DDoS attacks.
